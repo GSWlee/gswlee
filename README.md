@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![image]( https://github.com/GSWlee/gswlee/image/1.gif)
+![image](https://github.com/GSWlee/gswlee/blob/main/image/1.gif)
 
 
 ### I’m a graduate student studying at the MICC of HITSZ.
